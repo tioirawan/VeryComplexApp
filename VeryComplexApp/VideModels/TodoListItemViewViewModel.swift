@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+class TodoListItemViewViewModel: ObservableObject {
+    func toggleDown(_ id: String) {
+        
+    }
+}
